@@ -1,0 +1,4 @@
+name = "MyProject"
+uuid = "257d685a-5e19-44c6-829d-be22106f6b98"
+authors = ["lianexu <42523477+lianexu@users.noreply.github.com>"]
+version = "0.1.0"
