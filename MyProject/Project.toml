@@ -2,3 +2,9 @@ name = "MyProject"
 uuid = "257d685a-5e19-44c6-829d-be22106f6b98"
 authors = ["lianexu <42523477+lianexu@users.noreply.github.com>"]
 version = "0.1.0"
+
+[deps]
+Gen = "ea4f424c-a589-11e8-07c0-fd5c91b9da4a"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
